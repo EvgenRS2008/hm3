@@ -1,0 +1,30 @@
+h1{
+    padding-left: 500px;
+}
+.container{
+    font-family: "Montserrat",sans-serif;
+}
+
+body h1, h2,ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+
+}
+
+
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.article-item{
+    width: 30%;
+}
